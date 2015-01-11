@@ -2,8 +2,5 @@
 __pycache_
 *-*
 /projects
-<<<<<<< HEAD
 *.npz
 *.npy
-=======
->>>>>>> 1c96a97c78ca0081c5531e780297791c7fa8ef48
