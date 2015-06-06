@@ -6,4 +6,4 @@ The scraper was used for gathering past winning project data for training Parado
 
 ## Future Plans
 
-After talking with ChallengePost staff, it seems that the developers are working on an API. In the meantime, this utility will serve in the place of an API.
+It would be preferrable to use an existing API to fetch project data. However, no API existed at the time of this project. ChallengePost's GitHub account shows that there is an authentication API under development. After talking with ChallengePost staff, it seems that the developers are also working on an API for project data. In the meantime, this utility will serve in the place of an API.
